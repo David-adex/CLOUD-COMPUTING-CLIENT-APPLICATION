@@ -1,0 +1,1 @@
+**Trip and travel weather forecast application using NetBeans IDE, Java, Apache Tomcat, Microsoft Azure, an orchestrator external rest API system, and a MySQL Database to provide services for travel-loving users.**
